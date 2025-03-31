@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name        Farm
-// @description SPUNK BR FARM
-// @include     https://**screen=am_farm**  // Para páginas específicas do Tribal Wars
-// @match       https://raw.githubusercontent.com/SpunkBR/publico/main/farm-public.js
-// @downloadURL https://github.com/SpunkBR/publico/raw/main/farm-public.js
-// @updateURL   https://github.com/SpunkBR/publico/raw/main/farm-public.js
-// @icon        https://dspt.innogamescdn.com/asset/70e1acd/graphic/icons/farm_assistent.png
-// @version     1.1
+// @name         Farm Public
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  Script de farm público
+// @match        https://github.com/SpunkBR/publico/blob/main/farm-public.js
+// @grant        none
+// @downloadURL  https://raw.githubusercontent.com/SpunkBR/publico/refs/heads/main/farm-public.js
+// @updateURL    https://raw.githubusercontent.com/SpunkBR/publico/refs/heads/main/farm-public.js
 // ==/UserScript==
 
 var a0_0xd6d8b2 = a0_0x2b71;
