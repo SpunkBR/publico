@@ -1,8 +1,6 @@
 // ==UserScript==
 // @name        Farm
 // @description SPUNK BR FARM
-// @author      Pengu
-// @namespace   https://github.com/pingudiogo
 // @include     https://**screen=am_farm**  // Para páginas específicas do Tribal Wars
 // @match       https://raw.githubusercontent.com/SpunkBR/publico/main/farm-public.js
 // @downloadURL https://github.com/SpunkBR/publico/raw/main/farm-public.js
