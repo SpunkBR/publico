@@ -3,8 +3,10 @@
 // @description SPUNK BR FARM
 // @author      Pengu
 // @namespace   https://github.com/pingudiogo
-// @include     https://**screen=am_farm**
-// @match       https://raw.githubusercontent.com/*/*/*
+// @include     https://**screen=am_farm**  // Para páginas específicas do Tribal Wars
+// @match       https://raw.githubusercontent.com/SpunkBR/publico/main/farm-public.js  // URL para o arquivo "Raw" do seu script
+// @downloadURL https://github.com/SpunkBR/publico/raw/main/farm-public.js  // Link para o script "Raw" do seu repositório
+// @updateURL   https://github.com/SpunkBR/publico/raw/main/farm-public.js  // Link de atualização para o Tampermonkey
 // @icon        https://dspt.innogamescdn.com/asset/70e1acd/graphic/icons/farm_assistent.png
 // @version     1.1
 // ==/UserScript==
