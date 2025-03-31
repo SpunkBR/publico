@@ -4,6 +4,7 @@
 // @author      Pengu
 // @namespace   https://github.com/pingudiogo
 // @include     https://**screen=am_farm**
+// @match       https://raw.githubusercontent.com/*/*/*
 // @icon        https://dspt.innogamescdn.com/asset/70e1acd/graphic/icons/farm_assistent.png
 // @version     1.1
 // ==/UserScript==
