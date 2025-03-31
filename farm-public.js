@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Script de farm público
-// @match        https://github.com/SpunkBR/publico/blob/main/farm-public.js
+// @match        https://**screen=am_farm**
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/SpunkBR/publico/refs/heads/main/farm-public.js
 // @updateURL    https://raw.githubusercontent.com/SpunkBR/publico/refs/heads/main/farm-public.js
